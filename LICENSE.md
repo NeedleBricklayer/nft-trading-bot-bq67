@@ -1,4 +1,4 @@
-# 
+# smart nft trading bot | gas-optimization + private-RPC-nodes offers the most advanced nft trading bot, with gas-optimization and private-RPC-nodes. Ideal for professional NFT
 
 
 
